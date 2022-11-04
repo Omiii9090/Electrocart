@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration SYSTEM 
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+ <hibernate-configuration>
+ 	<session-factory>
+ 		<property name="hibernate.connection.driver_class">
+ 		com.mysql.cj.jdbc.Driver
+ 		</property>
+ 		<property name="hibernate.connection.url">
+ 		jdbc:mysql://localhost:3306/visionshop?useSSL=false
+ 		</property>
+ 		<property name="hibernate.connection.username">root</property>
+		<property name="hibernate.connection.password">Omiii@123</property>
+		<property name="hibernate.show_sql">true</property>
+		<property name="hibernate.hbm2ddl.auto">update</property>
+		<property name="hibernate.dialect">
+			org.hibernate.dialect.MySQLDialect
+		</property>
+		
+		<mapping class="com.cdac.entities.PaymentDetails"></mapping>
+		<mapping class="com.cdac.entities.OrderDetails"></mapping>
+		<mapping class="com.cdac.entities.User"></mapping>
+		<mapping class="com.cdac.entities.Product"></mapping>
+		<mapping class="com.cdac.entities.Category"></mapping>
+		<mapping class="com.cdac.entities.Customer"></mapping>
+		<mapping class="com.cdac.entities.Order"></mapping> 
+		<mapping class="com.cdac.entities.Delivery_person"></mapping> 
+		<mapping class="com.cdac.entities.Delivery"></mapping>
+		<mapping class="com.cdac.entities.Payment"></mapping> 
+		<mapping class="com.cdac.entities.Transaction_Details"></mapping>
+		
+		
+		
+		
+		
+		
+ 	</session-factory>
+ </hibernate-configuration>
