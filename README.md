@@ -12,9 +12,7 @@ entire online process of developing, marketing, selling, delivering, servicing a
 paying for products and services
 
 
-
-
-#Technologies:
+# Technologies:
 
 1. J2EE(JSP, Servlet ,Hibernate)
 2. MY-SQL
