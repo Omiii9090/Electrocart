@@ -42,3 +42,10 @@ paying for products and services
 
 ![ER DIAGRAM OF ELECTROCART](https://user-images.githubusercontent.com/110629636/200187277-e4a014fc-9ac1-4ddc-8a18-45d8f95bbc82.png)
 
+# Database Schema Diagram using Reverse Engineering
+
+
+![Reverse engineering database Schema](https://user-images.githubusercontent.com/110629636/200187751-9cc04661-615a-42cd-a5df-b020672dd63f.png)
+
+
+
