@@ -25,6 +25,14 @@ paying for products and services
 2.MY-SQL Workbench
 
 
+
+
+# Project Flow Diagram
+
+
+
+
+
 # Product Functions
 
 1. Login Module
@@ -70,5 +78,61 @@ This form is basically for Review purpose So user Able to contact And Drop their
 ![2 g contact](https://user-images.githubusercontent.com/110629636/200188377-d4d83be0-5e07-46dc-aa02-618bf8e5f055.png)
 
 
+3.Login Page -Login page is for user Login 
 
 
+![3 Login page](https://user-images.githubusercontent.com/110629636/200188464-f0199d67-760b-4c79-b03b-95a55b2a43ae.png)
+
+
+4. Register Page-Register page is for user Login 
+
+
+
+![7 register](https://user-images.githubusercontent.com/110629636/200188520-7e1c214e-0d84-4be0-8e7c-964adec2ae98.png)
+
+ 
+
+5.UserHome Page- Afterlogin user able to view Products Abd Able TO add iin Cart.
+
+
+![4 Userhome](https://user-images.githubusercontent.com/110629636/200188589-83503afe-7aad-4731-86f1-42f0c9a4ab26.png)
+
+
+6.Order Status-
+
+
+![6order status](https://user-images.githubusercontent.com/110629636/200188616-75be77da-843e-4072-97ae-fcacc89002dd.png)
+
+
+
+7.Admin Page-
+
+
+![8AdminDashboard](https://user-images.githubusercontent.com/110629636/200188637-2febfc76-3474-49be-8b86-473632b527f1.png)
+
+
+8.ADD Product Category and Product-
+
+
+![9 Add Category Dynamic](https://user-images.githubusercontent.com/110629636/200188663-151673d2-d82d-4543-a9dc-c652a60a97a3.png)
+
+
+
+![10 prodcut ](https://user-images.githubusercontent.com/110629636/200188668-22bdb2f6-00f3-4a8f-ad63-90c9fd4696db.png)
+
+
+# Feacture Scope 
+
+
+1.Payment Integration 
+
+2.Try to Make  More Interractive UI 
+
+3.Bulid with SpringBoot 
+
+4.Implement Authentiction Process
+
+5.ADD More Collabrtive Feature
+
+
+Thank YOur ❤
