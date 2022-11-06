@@ -59,7 +59,8 @@ paying for products and services
 # some UI ScreenShots
 
 
-1. Home Page- This page is Comman For All the users For Shopping User have to login Fist with Correct Credentials.
+# 1.Home Page - 
+This page is Comman For All the users For Shopping User have to login Fist with Correct Credentials.
 
 
 
@@ -67,7 +68,7 @@ paying for products and services
 
 
 
-2. Contact Us Form-
+# 2. Contact Us Form-
 
 
 
@@ -78,13 +79,15 @@ This form is basically for Review purpose So user Able to contact And Drop their
 ![2 g contact](https://user-images.githubusercontent.com/110629636/200188377-d4d83be0-5e07-46dc-aa02-618bf8e5f055.png)
 
 
-3.Login Page -Login page is for user Login 
+# 3.Login Page -
+Login page is for user Login 
 
 
 ![3 Login page](https://user-images.githubusercontent.com/110629636/200188464-f0199d67-760b-4c79-b03b-95a55b2a43ae.png)
 
 
-4. Register Page-Register page is for user Login 
+# 4. Register Page-
+Register page is for user Login 
 
 
 
@@ -92,27 +95,30 @@ This form is basically for Review purpose So user Able to contact And Drop their
 
  
 
-5.UserHome Page- Afterlogin user able to view Products Abd Able TO add iin Cart.
+# 5.UserHome Page- 
+Afterlogin user able to view Products Abd Able TO add iin Cart.
 
 
 ![4 Userhome](https://user-images.githubusercontent.com/110629636/200188589-83503afe-7aad-4731-86f1-42f0c9a4ab26.png)
 
 
-6.Order Status- This page shows Oder status Eg. Deliverd  Proceesing Etc.....
+# 6.Order Status-  
+This page shows Oder status Eg. Deliverd  Proceesing Etc.....
 
 
 ![6order status](https://user-images.githubusercontent.com/110629636/200188616-75be77da-843e-4072-97ae-fcacc89002dd.png)
 
 
 
-7.Admin Page- 
+# 7.Admin Page- 
 
 
 ![8AdminDashboard](https://user-images.githubusercontent.com/110629636/200188637-2febfc76-3474-49be-8b86-473632b527f1.png)
 
 
 
-8.ADD Product Category and Product- This pages Having Form to Add the Categories And Product TO show the Users.
+# 8.ADD Product Category and Product-
+This pages Having Form to Add the Categories And Product TO show the Users.
 
 
 ![9 Add Category Dynamic](https://user-images.githubusercontent.com/110629636/200188663-151673d2-d82d-4543-a9dc-c652a60a97a3.png)
