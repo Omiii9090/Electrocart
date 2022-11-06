@@ -98,20 +98,21 @@ This form is basically for Review purpose So user Able to contact And Drop their
 ![4 Userhome](https://user-images.githubusercontent.com/110629636/200188589-83503afe-7aad-4731-86f1-42f0c9a4ab26.png)
 
 
-6.Order Status-
+6.Order Status- This page shows Oder status Eg. Deliverd  Proceesing Etc.....
 
 
 ![6order status](https://user-images.githubusercontent.com/110629636/200188616-75be77da-843e-4072-97ae-fcacc89002dd.png)
 
 
 
-7.Admin Page-
+7.Admin Page- 
 
 
 ![8AdminDashboard](https://user-images.githubusercontent.com/110629636/200188637-2febfc76-3474-49be-8b86-473632b527f1.png)
 
 
-8.ADD Product Category and Product-
+
+8.ADD Product Category and Product- This pages Having Form to Add the Categories And Product TO show the Users.
 
 
 ![9 Add Category Dynamic](https://user-images.githubusercontent.com/110629636/200188663-151673d2-d82d-4543-a9dc-c652a60a97a3.png)
