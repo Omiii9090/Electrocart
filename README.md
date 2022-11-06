@@ -36,3 +36,9 @@ paying for products and services
 3. Product Module
 
 4. Payment Module 
+
+
+# ER-Diagram
+
+![ER DIAGRAM OF ELECTROCART](https://user-images.githubusercontent.com/110629636/200187277-e4a014fc-9ac1-4ddc-8a18-45d8f95bbc82.png)
+
